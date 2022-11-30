@@ -1,4 +1,4 @@
 # prueba_gpy
-Test del 3er curso de Autmation With Python - Sección Git
+3rd Course (Git) test - Automation With Python
 
 I am editing the README file. Adding some more details about the project description.
